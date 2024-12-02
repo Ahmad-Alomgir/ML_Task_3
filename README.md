@@ -16,15 +16,10 @@ The model is built using **TensorFlow/Keras** and trained on a dataset containin
 - **Model Architecture**: A simple yet effective CNN with multiple convolutional, pooling, and dense layers.  
 - **Visualization**: Displays training progress, loss/accuracy plots, and predictions with corresponding images.
 
-## Setup
 
-### 1. Prerequisites
 Ensure you have the following installed:
 - Python 3.8+
 - TensorFlow 2.x
 - NumPy
 - Matplotlib
 - scikit-learn
-
-### 2. Dataset Structure
-Place your dataset in the following structure:  
